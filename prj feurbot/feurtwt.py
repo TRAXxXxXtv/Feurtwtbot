@@ -4,7 +4,6 @@ import time
 import json
 import colorama
 from colorama import Fore,Style
-mot_de_passe ="tristan"
 
         
 
@@ -14,10 +13,10 @@ mot_de_passe ="tristan"
 print(Fore.YELLOW+"lancement en cours")
 time.sleep(5)
 print(Style.RESET_ALL)
-api_key = "Mz3f4aueWBVT5tblykvWUvlFo"
-api_secrets = "KH2pmemtqbMVQWGnSJlHmBiYSXTO24hBV8Use4fL7taw9wyXAQ"
-access_token = "1453336196042706948-GM16a7i91LpOVQ66sGaf1zevCS0GhM"
-access_secret = "ZoOWV6yOy1NSpuBSbxppL0cjhbd2lGjAz2m6fr90Hp1El"
+api_key = "token"
+api_secrets = "token"
+access_token = "token"
+access_secret = "token"
     
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler(api_key,api_secrets)
