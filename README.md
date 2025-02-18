@@ -1,5 +1,7 @@
 # FeurBot
 
+<img src='./FEUR BOT.jpg' alt='FeurBot'>
+
 FeurBot est un bot simple conçu pour répondre "feur" lorsque quelqu'un envoie "quoi" sur Twitter. Il est facile d'utilisation mais pas encore optimisé.
 
 ## Prérequis
